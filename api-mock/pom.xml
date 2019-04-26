@@ -4,7 +4,7 @@
 		<relativePath>..</relativePath>
 		<groupId>se.bjurr.wiremock</groupId>
 		<artifactId>wiremock-jaxrs-example</artifactId>
-		<version>1.5-SNAPSHOT</version>
+		<version>1.5</version>
 	</parent>
 	<artifactId>wiremock-jaxrs-example-api-mock</artifactId>
 	<name>wiremock-jaxrs-example-api-mock</name>
