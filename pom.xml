@@ -3,7 +3,7 @@
 	<groupId>se.bjurr.wiremock</groupId>
 	<artifactId>wiremock-jaxrs-example</artifactId>
 	<name>wiremock-jaxrs-example</name>
-	<version>1.6</version>
+	<version>1.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<description>Example usage of Wiremock JAX-RS.</description>
 	<url>https://github.com/tomasbjerre/wiremock-jaxrs-example</url>
@@ -12,7 +12,7 @@
 	<scm>
 		<developerConnection>scm:git:git@github.com:tomasbjerre/wiremock-jaxrs-example.git</developerConnection>
 		<url>https://github.com/tomasbjerre/wiremock-jaxrs-example</url>
-		<tag>wiremock-jaxrs-example-1.6</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<modules>
